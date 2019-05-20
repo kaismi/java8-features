@@ -1,7 +1,7 @@
-package at.kaismi;
+package at.kaismi.java8features;
 
-import at.kaismi.funcinf.MySimpleConsumer;
-import at.kaismi.funcinf.MySimpleInterface;
+import at.kaismi.java8features.funcinf.MySimpleConsumer;
+import at.kaismi.java8features.funcinf.MySimpleInterface;
 
 import java.util.Arrays;
 import java.util.Comparator;

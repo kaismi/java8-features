@@ -1,4 +1,4 @@
-package at.kaismi.lambdaexp;
+package at.kaismi.java8features.lambdaexp;
 
 public interface MyStupidInterface<P1, P2, R> {
 

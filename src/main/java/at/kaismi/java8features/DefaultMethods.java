@@ -1,4 +1,4 @@
-package at.kaismi;
+package at.kaismi.java8features;
 
 public class DefaultMethods {
 

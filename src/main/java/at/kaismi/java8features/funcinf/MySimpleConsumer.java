@@ -1,4 +1,4 @@
-package at.kaismi.funcinf;
+package at.kaismi.java8features.funcinf;
 
 public interface MySimpleConsumer<T> {
 
