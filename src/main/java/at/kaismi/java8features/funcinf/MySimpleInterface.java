@@ -1,4 +1,4 @@
-package at.kaismi.funcinf;
+package at.kaismi.java8features.funcinf;
 
 @FunctionalInterface public interface MySimpleInterface<T> {
 

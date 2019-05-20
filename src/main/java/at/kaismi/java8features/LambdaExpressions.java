@@ -1,6 +1,6 @@
-package at.kaismi;
+package at.kaismi.java8features;
 
-import at.kaismi.lambdaexp.MyStupidInterface;
+import at.kaismi.java8features.lambdaexp.MyStupidInterface;
 
 public class LambdaExpressions {
 

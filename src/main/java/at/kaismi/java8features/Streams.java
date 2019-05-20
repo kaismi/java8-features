@@ -1,4 +1,4 @@
-package at.kaismi;
+package at.kaismi.java8features;
 
 import java.util.Arrays;
 import java.util.List;
