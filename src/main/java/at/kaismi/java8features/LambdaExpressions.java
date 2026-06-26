@@ -4,7 +4,7 @@ import at.kaismi.java8features.lambdaexp.MyStupidInterface;
 
 public class LambdaExpressions {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         System.out.println("Lambda 1:");
         MyStupidInterface<Integer, Integer, String> stupidOperation = (p1, p2) -> {
             int result = p1 + p2;

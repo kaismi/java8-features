@@ -2,7 +2,7 @@ package at.kaismi.java8features;
 
 public class DefaultMethods {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         System.out.println("Default methods 1:");
         Vehicle vehicle = new Car();
         vehicle.print();

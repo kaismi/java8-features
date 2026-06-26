@@ -6,7 +6,7 @@ import java.util.UUID;
 
 public class Base64Encoding {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         try {
             System.out.println("Base 64 1:");
             // Encode using basic encoder

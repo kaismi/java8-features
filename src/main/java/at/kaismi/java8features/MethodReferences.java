@@ -6,7 +6,7 @@ import java.util.function.Consumer;
 
 public class MethodReferences {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         System.out.println("Method refs 1:");
         List<String> names = new ArrayList<>();
 

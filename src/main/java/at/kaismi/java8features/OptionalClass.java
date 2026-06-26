@@ -5,7 +5,7 @@ import java.util.Optional;
 
 public class OptionalClass {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         System.out.println("Optional 1:");
         Optional<Integer> value1 = Optional.empty();
         Optional<Integer> value2 = Optional.of(10);

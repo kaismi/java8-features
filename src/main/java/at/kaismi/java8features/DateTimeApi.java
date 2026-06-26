@@ -7,7 +7,7 @@ import java.util.Date;
 
 public class DateTimeApi {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         System.out.println("Date time API 1:");
         LocalDateTime currentTime = LocalDateTime.now();
         System.out.println("Current DateTime: " + currentTime);

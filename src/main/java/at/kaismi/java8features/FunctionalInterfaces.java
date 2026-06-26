@@ -10,7 +10,7 @@ import java.util.function.*;
 
 public class FunctionalInterfaces {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         List<Integer> list = Arrays.asList(1, 2, 3, 4, 5);
 
         System.out.println("Print even numbers:");
